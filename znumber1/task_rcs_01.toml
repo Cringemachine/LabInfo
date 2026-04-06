@@ -1,0 +1,119 @@
+[[data]]
+variant = 1
+D = "10e-3"
+fmin = "0.01e9"
+fmax = "40e9"
+
+[[data]]
+variant = 2
+D = "20e-3"
+fmin = "0.01e9"
+fmax = "30e9"
+
+[[data]]
+variant = 3
+D = "30e-3"
+fmin = "0.01e9"
+fmax = "25e9"
+
+[[data]]
+variant = 4
+D = "100e-3"
+fmin = "0.01e9"
+fmax = "10e9"
+
+[[data]]
+variant = 5
+D = "300e-3"
+fmin = "0.01e9"
+fmax = "5e9"
+
+[[data]]
+variant = 6
+D = "0.5"
+fmin = "10e6"
+fmax = "900e6"
+
+[[data]]
+variant = 7
+D = "0.8"
+fmin = "10e6"
+fmax = "900e6"
+
+[[data]]
+variant = 8
+D = "1.0"
+fmin = "10e6"
+fmax = "600e6"
+
+[[data]]
+variant = 9
+D = "50e-3"
+fmin = "0.01e9"
+fmax = "20e9"
+
+[[data]]
+variant = 10
+D = "5e-3"
+fmin = "0.01e9"
+fmax = "80e9"
+
+[[data]]
+variant = 11
+D = "250e-3"
+fmin = "0.01e9"
+fmax = "10e9"
+
+[[data]]
+variant = 12
+D = "70e-3"
+fmin = "0.01e9"
+fmax = "25e9"
+
+[[data]]
+variant = 13
+D = "200e-3"
+fmin = "0.01e9"
+fmax = "5e9"
+
+[[data]]
+variant = 14
+D = "400e-3"
+fmin = "0.01e9"
+fmax = "7e9"
+
+[[data]]
+variant = 15
+D = "15e-3"
+fmin = "0.01e9"
+fmax = "45e9"
+
+[[data]]
+variant = 16
+D = "25e-3"
+fmin = "0.01e9"
+fmax = "35e9"
+
+[[data]]
+variant = 17
+D = "35e-3"
+fmin = "0.01e9"
+fmax = "20e9"
+
+[[data]]
+variant = 18
+D = "55e-3"
+fmin = "0.01e9"
+fmax = "15e9"
+
+[[data]]
+variant = 19
+D = "150e-3"
+fmin = "0.01e9"
+fmax = "12e9"
+
+[[data]]
+variant = 20
+D = "350e-3"
+fmin = "0.01e9"
+fmax = "4e9"
